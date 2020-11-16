@@ -11,4 +11,4 @@ Até o momento foram feitos 6 projetos e uma prova. Os projetos estão divididos
 - 6 - Planejamento de Experimentos
 - Prova 1
 
-Os códigos e a base de dados de cada atividade podem ser conferidos dentro das pastas. Foi utilizado a plataforma Google Colab para desenvolver os projetos. As atividades foram realizadas em grupo, com parceria de @MatheusBorgesKamla e @JoaoMOBarros . 
+Os códigos e a base de dados de cada atividade podem ser conferidos dentro das pastas. Foi utilizado a plataforma Google Colab para desenvolver os projetos. As atividades foram realizadas em grupo, com parceria de [Matheus Borges Kamla](github.com/MatheusBorgesKamla) e [João Marco de Oliveira Barros](github.com/JoaoMOBarros). 
